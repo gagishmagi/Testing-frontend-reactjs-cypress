@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "ra-data-simple-rest": "^3.18.3",
     "react": "^16.8.4",
+    "react-admin": "^3.18.3",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
